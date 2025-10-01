@@ -74,7 +74,7 @@ project-root/
 
 ### 1. Clone repo
 ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/shalujha123/frontend_task.git
 
 
 cd project-root
