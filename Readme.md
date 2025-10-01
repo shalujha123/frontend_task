@@ -174,11 +174,11 @@ Connect repo to Vercel/Netlify.
 In frontend/src/services/api.js, update:
 
 const api = axios.create({
-  baseURL: "https://your-deployed-backend-url/api",
+  baseURL: "https://mern-backend-xhak.onrender.com/api",
 });
 
 
-Deploy → your app will be live 
+Deploy → https://frontend-task-virid-three.vercel.app/
 
 Author:- shalu kumari
 
